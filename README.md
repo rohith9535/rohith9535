@@ -12,39 +12,56 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
-
-<h2 align="left">Things That I Know</h2>
-
-###
-<div align="left">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" alt="c logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="HTML logo"  />
-  <img width="12" />
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="My SQL logo"  />
-  <img width="12" />
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" height="40" alt="Linux logo"  />
-  <img width="12" />
+## 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+  </tr>
+</table>
 </div>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohith9535&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohith9535&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith9535&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
 <h2 align="left">Contact Information</h2>
 <div align="left">
   <a href='https://www.linkedin.com/in/rohithrohi/' >
@@ -56,11 +73,4 @@
   
   
 </div>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohith9535&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohith9535&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith9535&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
