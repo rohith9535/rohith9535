@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**rohith9535/rohith9535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Rohith k and I'm a Front-End Developer from India</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">Things That I Know</h2>
+
+###
+<div align="left">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" alt="c logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="HTML logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="My SQL logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" height="40" alt="Linux logo"  />
+  <img width="12" />
+</div>
+<h2 align="left">Contact Information</h2>
+<div align="left">
+  <a href='https://www.linkedin.com/in/rohithrohi/' >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqsPqpZQlsvCxJGrzzlSWJsPZmxttLtRVNTQJqDVnKtbPxJgHLjdcftrRTpmkZRHLtLcL'>
+  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg' width="52" height="40" alt="gmail logo"  /> 
+  </a>
+  
+  
+</div>
+
+
+
