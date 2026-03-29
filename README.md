@@ -50,7 +50,7 @@
   <a href='https://www.linkedin.com/in/rohithrohi/' >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href='https://mail.google.com/mail/u/0/#inbox?compose=krohith9535@gmail.com'>
+  <a href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqsPqpZQlsvCxJGrzzlSWJsPZmxttLtRVNTQJqDVnKtbPxJgHLjdcftrRTpmkZRHLtLcL'>
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg' width="52" height="40" alt="gmail logo"  /> 
   </a>
   
